@@ -1,4 +1,10 @@
-window.SUPABASE_URL = "https://peehefoxvymnlqyktzio.supabase.co";
+window.APP_CONFIG = {
+  SUPABASE_URL: "https://peehefoxvymnlqyktzio.supabase.co",
 
-window.SUPABASE_ANON_KEY =
-  "sb_publishable_-We5jlWmSlSZ8kj3kxds5w_xeLXI03j";
+  SUPABASE_PUBLISHABLE_KEY:
+    "sb_publishable_-We5jlWmSlSZ8kj3kxds5w_xeLXI03j",
+
+  APP_NAME: "ONLINE EXAM",
+
+  APP_VERSION: "3.0.0"
+};
