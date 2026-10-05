@@ -1,5 +1,4 @@
-window.APP_CONFIG={
-  SUPABASE_URL:"https://YOUR_PROJECT_ID.supabase.co",
-  SUPABASE_PUBLISHABLE_KEY:"YOUR_SUPABASE_PUBLISHABLE_KEY",
-  APP_NAME:"ONLINE EXAM",APP_VERSION:"3.0.0"
-};
+window.SUPABASE_URL = "https://peehefoxvymnlqyktzio.supabase.co";
+
+window.SUPABASE_ANON_KEY =
+  "sb_publishable_-We5jlWmSlSZ8kj3kxds5w_xeLXI03j";
